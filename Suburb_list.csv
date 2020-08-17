@@ -1,0 +1,483 @@
+,Local Government Area,Suburb Name,ID,Postcode,2016 Median Sold Price
+0,Melbourne,Carlton,8217,3053,726000
+1,Melbourne,Carlton North,8247,3054,1246000
+2,Melbourne,Docklands,12117,3008,1520000
+3,Melbourne,East Melbourne,13127,3002,1825000
+4,Melbourne,Flemington,14617,3031,815000
+5,Melbourne,Kensington,21037,3031,824000
+6,Melbourne,Melbourne,25807,3000,602000
+7,Melbourne,Melbourne West,43457,3003,780000
+8,Melbourne,North Melbourne,31037,3051,925000
+9,Melbourne,Parkville,32107,3052,645000
+10,Melbourne,Port Melbourne,33267,3207,1268000
+11,Melbourne,South Yarra,36877,3141,1400000
+12,Melbourne,Southbank,36897,3006,660000
+13,Port Phillip,Albert Park,797,3206,1723000
+14,Port Phillip,Balaclava,2197,3183,1170000
+15,Port Phillip,Elwood,13717,3184,1600000
+16,Port Phillip,Melbourne,25807,3000,602000
+17,Port Phillip,Middle Park,26507,3206,1950000
+18,Port Phillip,Port Melbourne,33267,3207,1268000
+19,Port Phillip,Ripponlea,34527,3185,1460000
+20,Port Phillip,South Melbourne,36797,3205,1200000
+21,Port Phillip,Southbank,36897,3006,660000
+22,Port Phillip,St Kilda,37407,3182,965000
+23,Port Phillip,St Kilda East,37447,3183,1368000
+24,Port Phillip,St Kilda West,37507,3182,1913000
+25,Port Phillip,Windsor,44117,3181,1151000
+26,Stonnington,Armadale,1587,3143,2015000
+27,Stonnington,Glen Iris,15907,3146,1784000
+28,Stonnington,Kooyong,22117,3144,3275000
+29,Stonnington,Malvern,25047,3144,1970000
+30,Stonnington,Malvern East,25077,3145,1488000
+31,Stonnington,Prahran,33397,3181,1303000
+32,Stonnington,South Yarra,36877,3141,1400000
+33,Stonnington,Toorak,40457,3142,3298000
+34,Stonnington,Windsor,44117,3181,1151000
+35,Yarra,Abbotsford,627,3067,893000
+36,Yarra,Alphington,1047,3078,1250000
+37,Yarra,Burnley,7117,3121,933000
+38,Yarra,Carlton North,8247,3054,1246000
+39,Yarra,Clifton Hill,9437,3068,1164000
+40,Yarra,Collingwood,9987,3066,841000
+41,Yarra,Cremorne,10737,3121,1000000
+42,Yarra,Fairfield,14197,3078,1110000
+43,Yarra,Fitzroy,14527,3065,1051000
+44,Yarra,Fitzroy North,14567,3068,1157000
+45,Yarra,Princes Hill,33537,3054,1330000
+46,Yarra,Richmond,34297,3121,1006000
+47,Banyule,Bellfield,3787,3081,720000
+48,Banyule,Briar Hill,5807,3088,665000
+49,Banyule,Bundoora,6877,3083,626000
+50,Banyule,Eaglemont,13037,3084,1800000
+51,Banyule,Eltham,13677,3095,765000
+52,Banyule,Eltham North,13687,3095,803000
+53,Banyule,Greensborough,17297,3088,650000
+54,Banyule,Heidelberg,18387,3084,1014000
+55,Banyule,Heidelberg Heights,18397,3081,675000
+56,Banyule,Heidelberg West,18427,3081,580000
+57,Banyule,Ivanhoe,19767,3079,1050000
+58,Banyule,Ivanhoe East,19787,3079,1653000
+59,Banyule,Lower Plenty,24457,3093,813000
+60,Banyule,Macleod,24687,3085,754000
+61,Banyule,Montmorency,27387,3094,722000
+62,Banyule,Rosanna,34817,3084,885000
+63,Banyule,Saint Helena,37357,3088,720000
+64,Banyule,Viewbank,41617,3084,839000
+65,Banyule,Watsonia,42887,3087,624000
+66,Banyule,Watsonia North,42897,3087,645000
+67,Banyule,Yallambie,45427,3085,683000
+68,Bayside,Beaumaris,3547,3193,1330000
+69,Bayside,Black Rock,4627,3193,1461000
+70,Bayside,Brighton,5957,3186,2235000
+71,Bayside,Brighton East,5997,3187,1560000
+72,Bayside,Cheltenham,8967,3192,800000
+73,Bayside,Hampton,17737,3188,1660000
+74,Bayside,Hampton East,17757,3188,1050000
+75,Bayside,Highett,18717,3190,920000
+76,Bayside,Moorabbin,27577,3189,865000
+77,Bayside,Sandringham,35637,3191,1483000
+78,Boroondara,Ashburton,1787,3147,1500000
+79,Boroondara,Balwyn,2557,3103,2000000
+80,Boroondara,Balwyn North,2597,3104,1800000
+81,Boroondara,Burwood,7237,3125,1124000
+82,Boroondara,Camberwell,7677,3124,1850000
+83,Boroondara,Canterbury,7907,3126,2349000
+84,Boroondara,Hawthorn,18087,3122,1642000
+85,Boroondara,Hawthorn East,18117,3123,1611000
+86,Boroondara,Kew,21137,3101,2015000
+87,Boroondara,Kew East,21167,3102,1654000
+88,Boroondara,Mont Albert,27307,3127,1838000
+89,Boroondara,Surrey Hills,38357,3127,1676000
+90,Darebin,Alphington,1047,3078,1250000
+91,Darebin,Bundoora,6877,3083,626000
+92,Darebin,Coburg,9707,3058,778000
+93,Darebin,Coburg North,9727,3058,663000
+94,Darebin,Fairfield,14197,3078,1110000
+95,Darebin,Kingsbury,21677,3083,569000
+96,Darebin,Macleod,24687,3085,754000
+97,Darebin,Northcote,31107,3070,1040000
+98,Darebin,Preston,33507,3072,777000
+99,Darebin,Reservoir,34167,3073,600000
+100,Darebin,Thornbury,39937,3071,915000
+101,Glen Eira,Bentleigh,4117,3204,1252000
+102,Glen Eira,Bentleigh East,4127,3165,1040000
+103,Glen Eira,Brighton East,5997,3187,1560000
+104,Glen Eira,Carnegie,8297,3163,1250000
+105,Glen Eira,Caulfield,8687,3162,1539000
+106,Glen Eira,Caulfield East,8707,3145,1165000
+107,Glen Eira,Caulfield North,8747,3161,1625000
+108,Glen Eira,Caulfield South,8787,3162,1362000
+109,Glen Eira,Elsternwick,13627,3185,1500000
+110,Glen Eira,Gardenvale,15237,3185,1300000
+111,Glen Eira,Glen Huntly,15877,3163,790000
+112,Glen Eira,McKinnon,25657,3204,1360000
+113,Glen Eira,Murrumbeena,29437,3163,1180000
+114,Glen Eira,Ormond,31767,3204,1300000
+115,Glen Eira,St Kilda East,37447,3183,1368000
+116,Hobsons Bay,Altona,1057,3018,724000
+117,Hobsons Bay,Altona Meadows,1127,3028,470000
+118,Hobsons Bay,Altona North,1137,3025,650000
+119,Hobsons Bay,Brooklyn,6227,3012,555000
+120,Hobsons Bay,Laverton,23307,3028,410000
+121,Hobsons Bay,Newport,30557,3015,841000
+122,Hobsons Bay,Seabrook,35847,3028,477000
+123,Hobsons Bay,Seaholme,35887,3018,769000
+124,Hobsons Bay,South Kingsville,36757,3015,761000
+125,Hobsons Bay,Spotswood,36987,3015,863000
+126,Hobsons Bay,Williamstown,43967,3016,1100000
+127,Hobsons Bay,Williamstown North,43977,3016,805000
+128,Kingston,Aspendale,1817,3195,811000
+129,Kingston,Aspendale Gardens,1837,3195,735000
+130,Kingston,Bonbeach,5007,3196,700000
+132,Kingston,Carrum,8497,3197,610000
+133,Kingston,Chelsea,8927,3196,646000
+134,Kingston,Chelsea Heights,8937,3196,600000
+135,Kingston,Cheltenham,8967,3192,800000
+136,Kingston,Clarinda,9257,3169,685000
+137,Kingston,Clayton South,9367,3169,670000
+138,Kingston,Dingley Village,11977,3172,697000
+139,Kingston,Edithvale,13457,3196,795000
+140,Kingston,Heatherton,18327,3202,783000
+141,Kingston,Highett,18717,3190,920000
+142,Kingston,Mentone,26087,3194,860000
+143,Kingston,Moorabbin,27577,3189,865000
+145,Kingston,Mordialloc,27817,3195,782000
+146,Kingston,Oakleigh South,31597,3167,782000
+147,Kingston,Parkdale,32097,3195,933000
+148,Kingston,Patterson Lakes,32277,3197,750000
+149,Kingston,Waterways,42857,3195,910000
+150,Manningham,Bulleen,6707,3105,1075000
+151,Manningham,Doncaster,12177,3108,1200000
+152,Manningham,Doncaster East,12227,3109,1130000
+153,Manningham,Donvale,12247,3111,1038000
+154,Manningham,Nunawading,31307,3131,861000
+155,Manningham,Park Orchards,32077,3114,1360000
+156,Manningham,Ringwood North,34477,3134,790000
+157,Manningham,Templestowe,39607,3106,1261000
+158,Manningham,Templestowe Lower,39637,3107,1040000
+159,Manningham,Warrandyte,42597,3113,999000
+160,Manningham,Warrandyte South,42617,3134,1443000
+161,Manningham,Wonga Park,44437,3115,930000
+162,Maribyrnong,Braybrook,5697,3019,555000
+163,Maribyrnong,Footscray,14717,3011,665000
+164,Maribyrnong,Kingsville,21717,3012,782000
+165,Maribyrnong,Maidstone,24877,3012,620000
+166,Maribyrnong,Maribyrnong,25307,3032,750000
+167,Maribyrnong,Seddon,35997,3011,800000
+169,Maribyrnong,West Footscray,43407,3012,660000
+170,Maribyrnong,Yarraville,45777,3013,800000
+171,Monash,Ashwood,1807,3147,1135000
+172,Monash,Burwood,7237,3125,1124000
+173,Monash,Chadstone,8847,3148,895000
+174,Monash,Clayton,9327,3168,890000
+175,Monash,Hughesdale,19257,3166,1100000
+176,Monash,Huntingdale,19317,3166,846000
+177,Monash,Mount Waverley,28457,3149,1220000
+178,Monash,Mulgrave,29167,3170,758000
+179,Monash,Notting Hill,31177,3168,831000
+180,Monash,Oakleigh,31547,3166,970000
+181,Monash,Oakleigh East,31567,3166,859000
+182,Monash,Oakleigh South,31597,3167,782000
+183,Monash,Wheelers Hill,43647,3150,1000000
+184,Moonee Valley,Aberfeldie,647,3040,1295000
+185,Moonee Valley,Airport West,757,3042,650000
+186,Moonee Valley,Ascot Vale,1757,3032,905000
+187,Moonee Valley,Avondale Heights,1957,3034,676000
+188,Moonee Valley,Essendon,13957,3040,955000
+189,Moonee Valley,Essendon North,13977,3041,688000
+190,Moonee Valley,Essendon West,13997,3040,925000
+191,Moonee Valley,Flemington,14617,3031,815000
+192,Moonee Valley,Keilor East,20897,3033,672000
+193,Moonee Valley,Moonee Ponds,27497,3039,915000
+194,Moonee Valley,Niddrie,30687,3042,830000
+195,Moonee Valley,Strathmore,38037,3041,1048000
+196,Moonee Valley,Strathmore Heights,38047,3041,755000
+197,Moreland,Brunswick,6377,3056,850000
+198,Moreland,Brunswick East,6427,3057,815000
+199,Moreland,Brunswick West,6447,3055,795000
+200,Moreland,Coburg,9707,3058,778000
+201,Moreland,Coburg North,9727,3058,663000
+202,Moreland,Fawkner,14297,3060,525000
+203,Moreland,Fitzroy North,14567,3068,1157000
+204,Moreland,Glenroy,16477,3046,501000
+205,Moreland,Gowanbrae,16877,3043,591000
+206,Moreland,Hadfield,17537,3046,541000
+207,Moreland,Oak Park,31507,3046,625000
+208,Moreland,Parkville,32107,3052,645000
+209,Moreland,Pascoe Vale,32147,3044,600000
+210,Moreland,Pascoe Vale South,32177,3044,749000
+211,Moreland,Tullamarine,40947,3043,455000
+212,Whitehorse,Blackburn,4637,3130,1175000
+213,Whitehorse,Blackburn North,4657,3130,925000
+214,Whitehorse,Blackburn South,4667,3130,948000
+215,Whitehorse,Box Hill,5477,3128,1035000
+216,Whitehorse,Box Hill North,5547,3129,1050000
+217,Whitehorse,Box Hill South,5567,3128,1120000
+218,Whitehorse,Burwood,7237,3125,1124000
+219,Whitehorse,Burwood East,7327,3151,988000
+220,Whitehorse,Forest Hill,14827,3131,879000
+221,Whitehorse,Mitcham,26977,3132,852000
+222,Whitehorse,Mont Albert,27307,3127,1838000
+223,Whitehorse,Mont Albert North,27337,3129,1350000
+224,Whitehorse,Nunawading,31307,3131,861000
+225,Whitehorse,Surrey Hills,38357,3127,1676000
+226,Whitehorse,Vermont,41507,3133,857000
+227,Whitehorse,Vermont South,41517,3133,1053000
+228,Brimbank,Albanvale,787,3021,370000
+229,Brimbank,Albion,837,3020,521000
+230,Brimbank,Ardeer,1507,3022,428000
+231,Brimbank,Cairnlea,7527,3023,564000
+233,Brimbank,Deer Park,11507,3023,400000
+234,Brimbank,Delahey,11547,3037,406000
+235,Brimbank,Derrimut,161087,3026,499000
+236,Brimbank,Kealba,20817,3021,420000
+237,Brimbank,Keilor,20857,3036,731000
+238,Brimbank,Keilor Downs,20887,3038,490000
+239,Brimbank,Keilor Lodge,20917,3038,576000
+241,Brimbank,Keilor Park,20957,3042,562000
+242,Brimbank,Kings Park,21657,3021,375000
+243,Brimbank,St Albans,37177,3021,445000
+244,Brimbank,Sunshine,38277,3020,589000
+245,Brimbank,Sunshine North,38287,3020,510000
+246,Brimbank,Sunshine West,38297,3020,476000
+247,Brimbank,Sydenham,38547,3037,433000
+248,Brimbank,Taylors Lakes,39487,3038,581000
+249,Brimbank,Tullamarine,40947,3043,455000
+298,Casey,Beaconsfield,3417,3807,585000
+299,Casey,Berwick,4297,3806,565000
+300,Casey,Blind Bight,4777,3980,420000
+301,Casey,Cannons Creek,7877,3977,390000
+302,Casey,Clyde,9517,3978,440000
+303,Casey,Clyde North,9527,3978,460000
+304,Casey,Cranbourne,10627,3977,365000
+305,Casey,Cranbourne East,10647,3977,450000
+306,Casey,Cranbourne North,10657,3977,416000
+307,Casey,Cranbourne South,10677,3977,915000
+308,Casey,Cranbourne West,10687,3977,385000
+309,Casey,Devon Meadows,11787,3977,765000
+310,Casey,Doveton,12367,3177,382000
+311,Casey,Endeavour Hills,13797,3802,514000
+312,Casey,Eumemmerring,14007,3177,415000
+313,Casey,Hallam,17567,3803,440000
+314,Casey,Hampton Park,17807,3976,390000
+315,Casey,Harkaway,17897,3806,650000
+316,Casey,Junction Village,20197,3977,380000
+317,Casey,Lynbrook,24557,3975,514000
+318,Casey,Lyndhurst,24577,3975,556000
+319,Casey,Lysterfield South,24617,3156,1058000
+320,Casey,Narre Warren,30017,3805,457000
+321,Casey,Narre Warren North,30047,3804,885000
+322,Casey,Narre Warren South,30077,3805,505000
+323,Casey,Pearcedale,32327,3912,495000
+324,Casey,Tooradin,40437,3980,485000
+326,Frankston,Carrum Downs,8507,3201,392000
+327,Frankston,Frankston,14947,3199,435000
+328,Frankston,Frankston North,15007,3200,330000
+329,Frankston,Frankston South,15027,3199,636000
+330,Frankston,Langwarrin,23137,3910,465000
+331,Frankston,Langwarrin South,23177,3911,927000
+332,Frankston,Sandhurst,35597,3977,630000
+333,Frankston,Seaford,35867,3198,511000
+335,Greater Dandenong,Dandenong,11157,3175,456000
+336,Greater Dandenong,Dandenong North,11187,3175,500000
+338,Greater Dandenong,Keysborough,21197,3173,614000
+339,Greater Dandenong,Lyndhurst,24577,3975,556000
+340,Greater Dandenong,Noble Park,30827,3174,500000
+341,Greater Dandenong,Noble Park North,30847,3174,520000
+342,Greater Dandenong,Springvale,37117,3171,631000
+343,Greater Dandenong,Springvale South,37157,3172,572000
+344,Hume,Attwood,1857,3049,655000
+345,Hume,Broadmeadows,6127,3047,381000
+347,Hume,Campbellfield,7717,3061,390000
+350,Hume,Craigieburn,10597,3064,420000
+351,Hume,Dallas,11087,3047,386000
+352,Hume,Diggers Rest,11897,3427,367000
+353,Hume,Fawkner,14297,3060,525000
+354,Hume,Gladstone Park,15787,3043,480000
+355,Hume,Greenvale,17317,3059,521000
+356,Hume,Jacana,19797,3047,388000
+358,Hume,Keilor,20857,3036,731000
+359,Hume,Meadow Heights,25717,3048,386000
+361,Hume,Mickleham,26487,3064,477000
+363,Hume,Roxburgh Park,35077,3064,429000
+365,Hume,Sunbury,38197,3429,384000
+366,Hume,Tullamarine,40947,3043,455000
+367,Hume,Westmeadows,43577,3049,483000
+370,Knox,Bayswater,3337,3153,620000
+371,Knox,Boronia,5327,3155,580000
+372,Knox,Ferntree Gully,14407,3156,605000
+373,Knox,Knoxfield,21867,3180,691000
+374,Knox,Lysterfield,24607,3156,831000
+375,Knox,Rowville,35057,3178,734000
+376,Knox,Sassafras,35697,3787,647000
+377,Knox,Scoresby,35767,3179,677000
+378,Knox,The Basin,39797,3154,550000
+379,Knox,Upper Ferntree Gully,41327,3156,565000
+380,Knox,Wantirna,42327,3152,788000
+381,Knox,Wantirna South,42337,3152,850000
+382,Maroondah,Bayswater North,3387,3153,560000
+383,Maroondah,Croydon,10867,3136,615000
+384,Maroondah,Croydon Hills,10877,3136,710000
+385,Maroondah,Croydon North,10887,3136,700000
+386,Maroondah,Croydon South,10897,3136,600000
+387,Maroondah,Heathmont,18347,3135,760000
+388,Maroondah,Kilsyth,21497,3137,555000
+389,Maroondah,Kilsyth South,21527,3137,695000
+390,Maroondah,Park Orchards,32077,3114,1360000
+391,Maroondah,Ringwood,34397,3134,781000
+392,Maroondah,Ringwood East,34437,3135,750000
+393,Maroondah,Ringwood North,34477,3134,790000
+394,Maroondah,Vermont,41507,3133,857000
+395,Maroondah,Warranwood,42627,3134,835000
+396,Maroondah,Wonga Park,44437,3115,930000
+397,Melton,Brookfield,6207,3338,350000
+398,Melton,Burnside,7137,3023,430000
+399,Melton,Burnside Heights,48297,3023,488000
+400,Melton,Caroline Springs,8327,3023,498000
+401,Melton,Diggers Rest,11897,3427,367000
+403,Melton,Eynesbury,14157,3338,416000
+404,Melton,Hillside,18837,3037,488000
+405,Melton,Kurunjang,22327,3337,305000
+406,Melton,Melton,25957,3337,272000
+407,Melton,Melton South,25997,3338,269000
+408,Melton,Melton West,26007,3337,310000
+412,Melton,Ravenhall,33817,3023,446000
+413,Melton,Rockbank,34697,3335,341000
+414,Melton,Taylors Hill,39447,3037,550000
+416,Melton,Truganina,40897,3029,400000
+482,Whittlesea,Beveridge,4387,3753,430000
+483,Whittlesea,Bundoora,6877,3083,626000
+485,Whittlesea,Doreen,12307,3754,475000
+486,Whittlesea,Eden Park,13387,3757,714000
+487,Whittlesea,Epping,13867,3076,428000
+489,Whittlesea,Kinglake West,21617,3757,460000
+490,Whittlesea,Lalor,22937,3075,460000
+491,Whittlesea,Mernda,26237,3754,424000
+492,Whittlesea,Mill Park,26637,3082,500000
+493,Whittlesea,Morang South,36827,3752,475000
+494,Whittlesea,Thomastown,39897,3074,446000
+495,Whittlesea,Whittlesea,43777,3757,424000
+496,Whittlesea,Wollert,44357,3750,443000
+500,Wyndham,Eynesbury,14157,3338,416000
+501,Wyndham,Hoppers Crossing,19067,3029,380000
+502,Wyndham,Laverton,23307,3028,410000
+504,Wyndham,Little River,24027,3211,700000
+507,Wyndham,Point Cook,32927,3030,480000
+509,Wyndham,Tarneit,39087,3029,410000
+510,Wyndham,Truganina,40897,3029,400000
+511,Wyndham,Werribee,43317,3030,358000
+512,Wyndham,Werribee South,43337,3030,619000
+513,Wyndham,Williams Landing,48227,3027,510000
+514,Wyndham,Wyndham Vale,45307,3024,345000
+250,Cardinia,Avonsleigh,1977,3782,585000
+252,Cardinia,Beaconsfield,3417,3807,585000
+253,Cardinia,Beaconsfield Upper,3457,3808,740000
+254,Cardinia,Bunyip,7037,3815,445000
+260,Cardinia,Cockatoo,9777,3781,470000
+264,Cardinia,Emerald,13747,3782,580000
+265,Cardinia,Garfield,15257,3814,404000
+267,Cardinia,Gembrook,15477,3783,589000
+271,Cardinia,Koo Wee Rup,21947,3981,350000
+273,Cardinia,Lang Lang,23027,3984,320000
+275,Cardinia,Longwarry,24327,3816,314000
+276,Cardinia,Maryknoll,25507,3812,499000
+277,Cardinia,Menzies Creek,26107,3159,615000
+282,Cardinia,Nar Nar Goon,29827,3812,550000
+283,Cardinia,Nar Nar Goon North,29837,3812,659000
+284,Cardinia,Nyora,31467,3987,380000
+285,Cardinia,Officer,31647,3809,430000
+287,Cardinia,Pakenham,31947,3810,399000
+289,Cardinia,Pakenham Upper,31977,3810,758000
+291,Cardinia,Tenby Point,39657,3984,265000
+293,Cardinia,Tooradin,40437,3980,485000
+294,Cardinia,Tynong,41107,3813,415000
+418,Mornington Peninsula,Balnarring,2507,3926,650000
+419,Mornington Peninsula,Balnarring Beach,2517,3926,950000
+420,Mornington Peninsula,Baxter,3267,3911,403000
+421,Mornington Peninsula,Bittern,4567,3918,450000
+422,Mornington Peninsula,Blairgowrie,4717,3942,750000
+424,Mornington Peninsula,Cape Schanck,7987,3939,725000
+425,Mornington Peninsula,Crib Point,10797,3919,350000
+426,Mornington Peninsula,Dromana,12437,3936,590000
+427,Mornington Peninsula,Fingal,14477,3939,875000
+428,Mornington Peninsula,Flinders,14637,3929,1350000
+429,Mornington Peninsula,Hastings,17967,3915,375000
+431,Mornington Peninsula,Main Ridge,24937,3928,1908000
+432,Mornington Peninsula,McCrae,25587,3938,628000
+434,Mornington Peninsula,Merricks Beach,26297,3926,750000
+437,Mornington Peninsula,Mornington,27897,3931,661000
+438,Mornington Peninsula,Mount Eliza,28217,3930,875000
+439,Mornington Peninsula,Mount Martha,28317,3934,770000
+440,Mornington Peninsula,Pearcedale,32327,3912,495000
+442,Mornington Peninsula,Portsea,33327,3944,1853000
+443,Mornington Peninsula,Red Hill,33927,3937,883000
+444,Mornington Peninsula,Red Hill South,33937,3937,1158000
+445,Mornington Peninsula,Rosebud,34867,3939,435000
+446,Mornington Peninsula,Rye,35247,3941,522000
+447,Mornington Peninsula,Safety Beach,35287,3936,615000
+448,Mornington Peninsula,Shoreham,36367,3916,1300000
+449,Mornington Peninsula,Somers,36657,3927,740000
+450,Mornington Peninsula,Somerville,36677,3912,450000
+451,Mornington Peninsula,Sorrento,36697,3943,980000
+452,Mornington Peninsula,St Andrews Beach,37287,3941,680000
+453,Mornington Peninsula,Tootgarook,40487,3941,445000
+455,Mornington Peninsula,Tyabb,41047,3913,425000
+458,Nillumbik,Briar Hill,5807,3088,665000
+461,Nillumbik,Diamond Creek,11867,3089,610000
+462,Nillumbik,Doreen,12307,3754,475000
+463,Nillumbik,Eltham,13677,3095,765000
+464,Nillumbik,Eltham North,13687,3095,803000
+465,Nillumbik,Greensborough,17297,3088,650000
+466,Nillumbik,Hurstbridge,19387,3099,561000
+467,Nillumbik,Kangaroo Ground,20467,3097,1298000
+468,Nillumbik,Kinglake,21587,3763,413000
+470,Nillumbik,Kinglake West,21617,3757,460000
+472,Nillumbik,Panton Hill,32007,3759,833000
+473,Nillumbik,Plenty,32887,3090,978000
+474,Nillumbik,Research,34117,3095,940000
+476,Nillumbik,St Andrews,37267,3761,703000
+478,Nillumbik,Warrandyte North,31077,3113,763000
+480,Nillumbik,Wattle Glen,42957,3096,600000
+515,Yarra Ranges,Badger Creek,2077,3777,420000
+517,Yarra Ranges,Belgrave,3617,3160,515000
+518,Yarra Ranges,Belgrave Heights,3627,3160,600000
+519,Yarra Ranges,Belgrave South,3637,3160,680000
+522,Yarra Ranges,Chirnside Park,9137,3116,590000
+525,Yarra Ranges,Coldstream,9947,3770,502000
+527,Yarra Ranges,Don Valley,12147,3139,456000
+528,Yarra Ranges,Emerald,13747,3782,580000
+530,Yarra Ranges,Ferny Creek,14457,3786,660000
+533,Yarra Ranges,Gruyere,17437,3770,846000
+534,Yarra Ranges,Healesville,18247,3777,485000
+536,Yarra Ranges,Kallista,20337,3791,597000
+537,Yarra Ranges,Kalorama,20347,3766,550000
+538,Yarra Ranges,Kilsyth,21497,3137,555000
+539,Yarra Ranges,Launching Place,23247,3139,449000
+540,Yarra Ranges,Lilydale,23747,3140,560000
+541,Yarra Ranges,Lysterfield,24607,3156,831000
+545,Yarra Ranges,Menzies Creek,26107,3159,615000
+546,Yarra Ranges,Millgrove,26667,3799,297000
+547,Yarra Ranges,Monbulk,27267,3793,550000
+548,Yarra Ranges,Montrose,27397,3765,610000
+549,Yarra Ranges,Mooroolbark,27707,3138,567000
+550,Yarra Ranges,Mount Dandenong,28157,3767,575000
+551,Yarra Ranges,Mount Evelyn,28237,3796,533000
+554,Yarra Ranges,Olinda,31667,3788,650000
+557,Yarra Ranges,Sassafras,35697,3787,647000
+558,Yarra Ranges,Selby,36027,3159,500000
+559,Yarra Ranges,Seville,36087,3139,478000
+560,Yarra Ranges,Seville East,36097,3139,437000
+561,Yarra Ranges,Sherbrooke,36347,3789,678000
+562,Yarra Ranges,Silvan,36387,3795,760000
+565,Yarra Ranges,Tecoma,39517,3160,550000
+566,Yarra Ranges,The Patch,39857,3792,605000
+571,Yarra Ranges,Upper Ferntree Gully,41327,3156,565000
+572,Yarra Ranges,Upwey,41407,3158,550000
+574,Yarra Ranges,Wandin North,42107,3139,495000
+575,Yarra Ranges,Warburton,42407,3799,335000
+576,Yarra Ranges,Warburton East,13167,3799,360000
+577,Yarra Ranges,Wesburn,43357,3799,440000
+578,Yarra Ranges,Woori Yallock,44987,3139,375000
+579,Yarra Ranges,Yarra Glen,45657,3775,550000
+580,Yarra Ranges,Yarra Junction,45677,3797,422000
