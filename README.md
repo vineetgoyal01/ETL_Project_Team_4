@@ -21,4 +21,4 @@
 2. Once this transformation is complete, the csv of the LGA demographics is exported at the end. 
 
 ## SQL document 
-1. This is just a csv table in a SQL database showing the LGA, Suburb, Occupation data and median price 
+1. This is just a csv table in a SQL database showing the LGA, Suburb, Adult Population data and median price 
