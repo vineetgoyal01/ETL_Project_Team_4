@@ -1,0 +1,182 @@
+,Suburb Name,Year,Adult_Population,Local Government Area,Postcode,2016 Median Sold Price
+0,Canterbury,2016.0,"108,033",Boroondara,3126,2349000.0
+1,Fairfield,2016.0,"150,687",Yarra,3078,1110000.0
+2,Fairfield,2016.0,"14,319",Yarra,3078,1110000.0
+3,Essendon,2016.0,"55,664",Moonee Valley,3040,955000.0
+4,Keilor,2016.0,"48,500",Brimbank,3036,731000.0
+5,Keilor,2016.0,"7,063",Brimbank,3036,731000.0
+6,Sunbury,2016.0,"31,617",Hume,3429,384000.0
+7,Sunbury,2016.0,"10,140",Hume,3429,384000.0
+8,Dandenong,2016.0,"153,660",Greater Dandenong,3175,456000.0
+9,Dandenong,2016.0,"24,877",Greater Dandenong,3175,456000.0
+10,Maribyrnong,2016.0,"69,093",Maribyrnong,3032,750000.0
+11,Maribyrnong,2016.0,"10,421",Maribyrnong,3032,750000.0
+12,Frankston,2016.0,"109,114",Frankston,3199,435000.0
+13,Frankston,2016.0,"18,922",Frankston,3199,435000.0
+14,Burnside,2016.0,"36,413",Melton,3023,430000.0
+15,Burnside,2016.0,"3,742",Melton,3023,430000.0
+16,Mitcham,2016.0,"52,364",Whitehorse,3132,852000.0
+17,Armadale,2016.0,"61,871",Stonnington,3143,2015000.0
+18,Armadale,2016.0,"7,745",Stonnington,3143,2015000.0
+19,Brighton,2016.0,"13,092",Bayside,3186,2235000.0
+20,Brunswick,2016.0,"22,769",Moreland,3056,850000.0
+21,Brunswick East,2016.0,"9,774",Moreland,3057,815000.0
+22,Brunswick West,2016.0,"11,869",Moreland,3055,795000.0
+23,Coburg,2016.0,"21,935",Darebin,3058,778000.0
+24,Pascoe Vale South,2016.0,"7,981",Moreland,3044,749000.0
+25,Northcote,2016.0,"20,648",Darebin,3070,1040000.0
+26,Thornbury,2016.0,"15,490",Darebin,3071,915000.0
+27,Ascot Vale,2016.0,"12,087",Moonee Valley,3032,905000.0
+28,Flemington,2016.0,"8,556",Melbourne,3031,815000.0
+29,Moonee Ponds,2016.0,"11,985",Moonee Valley,3039,915000.0
+30,Carlton,2016.0,"17,883",Melbourne,3053,726000.0
+31,Docklands,2016.0,"10,177",Melbourne,3008,1520000.0
+32,East Melbourne,2016.0,"4,667",Melbourne,3002,1825000.0
+33,Melbourne,2016.0,"36,130",Melbourne,3000,602000.0
+34,North Melbourne,2016.0,"18,678",Melbourne,3051,925000.0
+35,Parkville,2016.0,"6,958",Melbourne,3052,645000.0
+36,Southbank,2016.0,"17,773",Melbourne,3006,660000.0
+37,Albert Park,2016.0,"13,242",Port Phillip,3206,1723000.0
+38,Elwood,2016.0,"13,117",Port Phillip,3184,1600000.0
+39,Port Melbourne,2016.0,"13,961",Melbourne,3207,1268000.0
+40,South Melbourne,2016.0,"10,249",Port Phillip,3205,1200000.0
+41,St Kilda,2016.0,"24,203",Port Phillip,3182,965000.0
+42,St Kilda East,2016.0,"14,299",Port Phillip,3183,1368000.0
+43,Toorak,2016.0,"11,588",Stonnington,3142,3298000.0
+44,Abbotsford,2016.0,"7,543",Yarra,3067,893000.0
+45,Collingwood,2016.0,"7,535",Yarra,3066,841000.0
+46,Fitzroy,2016.0,"9,250",Yarra,3065,1051000.0
+47,Fitzroy North,2016.0,"10,750",Yarra,3068,1157000.0
+48,Balwyn,2016.0,"13,306",Boroondara,3103,2000000.0
+49,Balwyn North,2016.0,"16,453",Boroondara,3104,1800000.0
+50,Camberwell,2016.0,"17,603",Boroondara,3124,1850000.0
+51,Hawthorn,2016.0,"19,970",Boroondara,3122,1642000.0
+52,Hawthorn East,2016.0,"12,791",Boroondara,3123,1611000.0
+53,Kew,2016.0,"20,754",Boroondara,3101,2015000.0
+54,Kew East,2016.0,"5,194",Boroondara,3102,1654000.0
+55,Bulleen,2016.0,"9,377",Manningham,3105,1075000.0
+56,Doncaster,2016.0,"17,821",Manningham,3108,1200000.0
+57,Templestowe,2016.0,"14,028",Manningham,3106,1261000.0
+58,Templestowe Lower,2016.0,"11,320",Manningham,3107,1040000.0
+59,Blackburn,2016.0,"17,428",Whitehorse,3130,1175000.0
+60,Blackburn South,2016.0,"8,791",Whitehorse,3130,948000.0
+61,Box Hill,2016.0,"17,070",Whitehorse,3128,1035000.0
+62,Box Hill North,2016.0,"14,417",Whitehorse,3129,1050000.0
+63,Burwood,2016.0,"10,864",Boroondara,3125,1124000.0
+64,Burwood East,2016.0,"8,808",Whitehorse,3151,988000.0
+65,Beaumaris,2016.0,"10,950",Bayside,3193,1330000.0
+66,Brighton East,2016.0,"12,606",Bayside,3187,1560000.0
+67,Hampton,2016.0,"14,112",Bayside,3188,1660000.0
+68,Carnegie,2016.0,"15,376",Glen Eira,3163,1250000.0
+69,Elsternwick,2016.0,"9,263",Glen Eira,3185,1500000.0
+70,Hughesdale,2016.0,"6,247",Monash,3166,1100000.0
+71,Murrumbeena,2016.0,"7,690",Glen Eira,3163,1180000.0
+72,Chelsea Heights,2016.0,"4,294",Kingston,3196,600000.0
+73,Mentone,2016.0,"10,861",Kingston,3194,860000.0
+74,Malvern East,2016.0,"17,592",Stonnington,3145,1488000.0
+75,Greensborough,2016.0,"16,666",Banyule,3088,650000.0
+76,Heidelberg West,2016.0,"11,673",Banyule,3081,580000.0
+77,Ivanhoe,2016.0,"9,536",Banyule,3079,1050000.0
+78,Watsonia,2016.0,"7,440",Banyule,3087,624000.0
+79,Kingsbury,2016.0,"9,802",Darebin,3083,569000.0
+80,Eltham,2016.0,"18,361",Banyule,3095,765000.0
+81,Hurstbridge,2016.0,"2,735",Nillumbik,3099,561000.0
+82,Kinglake,2016.0,"3,073",Nillumbik,3763,413000.0
+83,Lalor,2016.0,"18,625",Whittlesea,3075,460000.0
+84,Thomastown,2016.0,"16,974",Whittlesea,3074,446000.0
+85,Whittlesea,2016.0,"6,529",Whittlesea,3757,424000.0
+86,Doreen,2016.0,"14,828",Nillumbik,3754,475000.0
+87,Mernda,2016.0,"12,001",Whittlesea,3754,424000.0
+88,Wollert,2016.0,"6,585",Whittlesea,3750,443000.0
+89,Airport West,2016.0,"6,388",Moonee Valley,3042,650000.0
+90,Keilor East,2016.0,"21,863",Moonee Valley,3033,672000.0
+91,Strathmore,2016.0,"7,564",Moonee Valley,3041,1048000.0
+92,Coburg North,2016.0,"6,319",Darebin,3058,663000.0
+93,Fawkner,2016.0,"10,800",Moreland,3060,525000.0
+94,Pascoe Vale,2016.0,"19,288",Moreland,3044,600000.0
+95,Glenroy,2016.0,"18,209",Moreland,3046,501000.0
+96,Gowanbrae,2016.0,"2,262",Moreland,3043,591000.0
+97,Hadfield,2016.0,"4,581",Moreland,3046,541000.0
+98,Broadmeadows,2016.0,"10,440",Hume,3047,381000.0
+99,Meadow Heights,2016.0,"11,413",Hume,3048,386000.0
+100,Tullamarine,2016.0,"5,499",Moreland,3043,455000.0
+101,Bayswater,2016.0,"10,019",Knox,3153,620000.0
+102,Lysterfield,2016.0,"5,301",Knox,3156,831000.0
+103,Wantirna,2016.0,"11,605",Knox,3152,788000.0
+104,Wantirna South,2016.0,"15,194",Knox,3152,850000.0
+105,Boronia,2016.0,"18,343",Knox,3155,580000.0
+106,The Basin,2016.0,"3,396",Knox,3154,550000.0
+107,Bayswater North,2016.0,"9,580",Maroondah,3153,560000.0
+108,Ringwood,2016.0,"14,076",Maroondah,3134,781000.0
+109,Ringwood East,2016.0,"16,423",Maroondah,3135,750000.0
+110,Ringwood North,2016.0,"7,692",Manningham,3134,790000.0
+111,Croydon South,2016.0,"3,773",Maroondah,3136,600000.0
+112,Forest Hill,2016.0,"8,814",Whitehorse,3131,879000.0
+113,Nunawading,2016.0,"9,711",Manningham,3131,861000.0
+114,Vermont,2016.0,"8,256",Whitehorse,3133,857000.0
+115,Vermont South,2016.0,"9,902",Whitehorse,3133,1053000.0
+116,Chirnside Park,2016.0,"8,127",Yarra Ranges,3116,590000.0
+117,Kilsyth,2016.0,"7,539",Maroondah,3137,555000.0
+118,Montrose,2016.0,"5,527",Yarra Ranges,3765,610000.0
+119,Mooroolbark,2016.0,"17,696",Yarra Ranges,3138,567000.0
+120,Mount Evelyn,2016.0,"7,752",Yarra Ranges,3796,533000.0
+121,Koo Wee Rup,2016.0,"5,957",Cardinia,3981,350000.0
+122,Doveton,2016.0,"9,112",Casey,3177,382000.0
+123,Hallam,2016.0,"8,651",Casey,3803,440000.0
+124,Narre Warren North,2016.0,"6,368",Casey,3804,885000.0
+125,Cranbourne,2016.0,"15,787",Casey,3977,365000.0
+126,Cranbourne East,2016.0,"18,604",Casey,3977,450000.0
+127,Cranbourne North,2016.0,"14,922",Casey,3977,416000.0
+128,Cranbourne South,2016.0,"7,037",Casey,3977,915000.0
+129,Cranbourne West,2016.0,"11,158",Casey,3977,385000.0
+130,Clayton South,2016.0,"10,626",Kingston,3169,670000.0
+131,Dandenong North,2016.0,"18,405",Greater Dandenong,3175,500000.0
+132,Dingley Village,2016.0,"8,463",Kingston,3172,697000.0
+133,Keysborough,2016.0,"20,839",Greater Dandenong,3173,614000.0
+134,Noble Park North,2016.0,"6,192",Greater Dandenong,3174,520000.0
+135,Springvale,2016.0,"18,286",Greater Dandenong,3171,631000.0
+136,Springvale South,2016.0,"10,349",Greater Dandenong,3172,572000.0
+137,Clayton,2016.0,"20,332",Monash,3168,890000.0
+138,Mulgrave,2016.0,"16,027",Monash,3170,758000.0
+139,Wheelers Hill,2016.0,"16,658",Monash,3150,1000000.0
+140,Cairnlea,2016.0,"7,470",Brimbank,3023,564000.0
+141,Delahey,2016.0,"6,884",Brimbank,3037,406000.0
+142,Keilor Downs,2016.0,"10,993",Brimbank,3038,490000.0
+143,Sunshine,2016.0,"8,110",Brimbank,3020,589000.0
+144,Sunshine North,2016.0,"9,625",Brimbank,3020,510000.0
+145,Sunshine West,2016.0,"15,305",Brimbank,3020,476000.0
+146,Sydenham,2016.0,"9,671",Brimbank,3037,433000.0
+147,Taylors Lakes,2016.0,"14,585",Brimbank,3038,581000.0
+148,Altona,2016.0,"10,589",Hobsons Bay,3018,724000.0
+149,Altona Meadows,2016.0,"15,956",Hobsons Bay,3028,470000.0
+150,Altona North,2016.0,"11,491",Hobsons Bay,3025,650000.0
+151,Newport,2016.0,"13,917",Hobsons Bay,3015,841000.0
+152,Seabrook,2016.0,"3,981",Hobsons Bay,3028,477000.0
+153,Williamstown,2016.0,"12,527",Hobsons Bay,3016,1100000.0
+154,Braybrook,2016.0,"15,098",Maribyrnong,3019,555000.0
+155,Footscray,2016.0,"14,513",Maribyrnong,3011,665000.0
+156,Yarraville,2016.0,"12,012",Maribyrnong,3013,800000.0
+157,Hillside,2016.0,"15,356",Melton,3037,488000.0
+158,Melton,2016.0,"14,907",Melton,3337,272000.0
+159,Melton South,2016.0,"17,784",Melton,3338,269000.0
+160,Melton West,2016.0,"13,101",Melton,3337,310000.0
+161,Taylors Hill,2016.0,"13,587",Melton,3037,550000.0
+162,Burnside Heights,2016.0,"4,259",Melton,3023,488000.0
+163,Caroline Springs,2016.0,"14,707",Melton,3023,498000.0
+164,Laverton,2016.0,"7,129",Hobsons Bay,3028,410000.0
+165,Tarneit,2016.0,"24,600",Wyndham,3029,410000.0
+166,Truganina,2016.0,"16,819",Melton,3029,400000.0
+167,Wyndham Vale,2016.0,"16,894",Wyndham,3024,345000.0
+168,Carrum Downs,2016.0,"16,537",Frankston,3201,392000.0
+169,Frankston North,2016.0,"15,837",Frankston,3200,330000.0
+170,Frankston South,2016.0,"14,863",Frankston,3199,636000.0
+171,Langwarrin,2016.0,"19,182",Frankston,3910,465000.0
+172,Dromana,2016.0,"9,434",Mornington Peninsula,3936,590000.0
+173,Flinders,2016.0,"4,563",Mornington Peninsula,3929,1350000.0
+174,Mornington,2016.0,"20,165",Mornington Peninsula,3931,661000.0
+175,Mount Eliza,2016.0,"14,109",Mornington Peninsula,3930,875000.0
+176,Mount Martha,2016.0,"14,578",Mornington Peninsula,3934,770000.0
+177,Somerville,2016.0,"14,880",Mornington Peninsula,3912,450000.0
+178,Albion,2016.0,"2,447",Brimbank,3020,521000.0
+179,Windsor,2016.0,"6,110",Port Phillip,3181,1151000.0
+180,Emerald,2016.0,"9,951",Cardinia,3782,580000.0
