@@ -3,7 +3,7 @@
 ## **The Notebooks should be run in the following order:
 1. Notebook1_webscraping_API.ipynb
 2. Notebook2_Housing_price_Data.ipynb
-3. Notebook3_LGAs_final.ipynb
+3. Notebook3_LGAs.ipynb
 
 ## **Important Notes and Function of each Notebook
 ## Notebook 1 Summary and Important Notes:
