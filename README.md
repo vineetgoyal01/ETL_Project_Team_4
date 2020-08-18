@@ -17,5 +17,5 @@
 2. Once this transformation is complete, the csv exported at the end and this csv is uploaded into the pgAdmin4 site. 
 
 ## Notebook 3 Summary and Important Notes 
-1. Notebook 3 is created based on the .csv file obtained from the ABS census data. It is then cleaned to obtain the data in the year 2016 with respective LGAs using the list provided by Wikipedia. 
-2. Once this transformation is complete, the csv is exported at the end. 
+1. Notebook 3 is created based on the .csv file obtained from the ABS census data, it also interacts with Notebook 1 by the LGA. It is cleaned to obtain the data in the year 2016 with respective LGAs using the list provided by Wikipedia. 
+2. Once this transformation is complete, the csv of the LGA demographics is exported at the end. 
