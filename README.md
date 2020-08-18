@@ -1,21 +1,33 @@
-# ETL_Project_Team_4
+# ETL_Project_Team_4 --> Analyses for Housing prices of Greater Melbourne 
 
-## **The Notebooks should be run in the following order:
+# The Notebooks should be run in the following order:
+
 1. Notebook1_webscraping_API.ipynb
 2. Notebook2_Housing_price_Data.ipynb
 3. Notebook3_LGAs.ipynb
+4. Notebook_4_Suburb_Housing_Price_data
 
-## **Important Notes and Function of each Notebook
-## Notebook 1 Summary and Important Notes:
-1. This notebook uses both web-scraping and API functions to obtain a dataset of the Local Government Areas (LGAs) in Greater Melboure, suburbs within those LGAs and the median prices of suburbs. 
-2. Web-scraping is initially used to obtain a table of LGAs from Wikipedia. The next step is using the web-scraped table to obtain the sububrs in each LGA in Melbourne using the Local Council Website. This is converted into a Pandas Dataframe
-3. The last step is then using the web-scraped table to interact with the Domain API to obtain the median price of houses in all suburbs within Greater Melbourne. This data is then also aggreggated by LGA so there are two separate csvs exported as a result of this process
-4. This Jupyter Notebook imports four API keys from the config file. Please note that there are limits on API keys so the code cannot run successfully more than once a day unless new API keys from Domain are obtained.  Thus, please wait until at least August 20 to run this code. 
+# Summary of the project:
 
-## Notebook 2 Summary and Important Notes 
-1. Notebook 2 uses the median price csv obtained in Notebook 1 and interacts the suburban data with demographic data from the ABS. Thus, this notebook uses the new data-source of abs data. 
-2. Once this transformation is complete, the csv exported at the end and this csv is uploaded into the pgAdmin4 site. 
+This ETL project relied on using different data sources to compare the median house price depending on where they lived in Greater Melbourne.
 
-## Notebook 3 Summary and Important Notes 
-1. Notebook 3 is created based on the .csv file obtained from the ABS census data, it also interacts with Notebook 1 by the LGA. It is cleaned to obtain the data in the year 2016 with respective LGAs using the list provided by Wikipedia. 
-2. Once this transformation is complete, the csv of the LGA demographics is exported at the end. 
+# This analysis was completed at two levels. 
+            The first level was comparing the median house price of the suburb that they lived in within Greater Melbourne. 
+            The second level of analysis involved conducting a similar comparison, but instead compared the Local Government Area within Greater Melbourne . 
+
+# Sources:
+      1) Domain API 
+      2) https://en.wikipedia.org/wiki/Local_government_areas_of_Victoria
+      3) https://knowyourcouncil.vic.gov.au/councils
+      4) https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1410.02014-19?OpenDocument
+
+We used Domain API and different web sources to get the data. Imported the data into Jupyter Notebook. Than transformation of data with 4 notebook attached.
+  
+  Notebook1 and Notebook2 are for Extracting, Transforming and exporting of house price data for suburbs and LGAs
+  Notebook3 and Notebook4 and for Extracting, Transforming and Loading of suburb/LGA popullation data and merging it with House price data
+  
+  Finaly we used pgAdmin to load it to SQL. We used sequential relational database as our tables are relationaly  structured.
+  
+  Please see the output PNG for a quick summary of the outcome.
+  
+  # Thank You.
