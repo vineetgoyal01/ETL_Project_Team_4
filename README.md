@@ -3,7 +3,7 @@
 ## **The Notebooks should be run in the following order:
 1. Notebook1_webscraping_API.ipynb
 2. Notebook2_Housing_price_Data.ipynb
-
+3. Notebook3_LGAs_final.ipynb
 
 ## **Important Notes and Function of each Notebook
 ## Notebook 1 Summary and Important Notes:
@@ -16,6 +16,6 @@
 1. Notebook 2 uses the median price csv obtained in Notebook 1 and interacts the suburban data with demographic data from the ABS. Thus, this notebook uses the new data-source of abs data. 
 2. Once this transformation is complete, the csv exported at the end and this csv is uploaded into the pgAdmin4 site. 
 
-
-
-
+## Notebook 3 Summary and Important Notes 
+1. Notebook 3 is created based on the .csv file obtained from the ABS census data. It is then cleaned to obtain the data in the year 2016 with respective LGAs using the list provided by Wikipedia. 
+2. Once this transformation is complete, the csv is exported at the end. 
