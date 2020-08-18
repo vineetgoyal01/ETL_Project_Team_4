@@ -21,4 +21,4 @@
 2. Once this transformation is complete, the csv of the LGA demographics is exported at the end. 
 
 ## SQL document 
-1. The final notebooks of Notebook 2 and Notebook 3 were then imported into a csv table. One table had occupation and childrens eduction by Suburbs in Greater Melbourne. The second table had further aggregated data and looked at suburb median price data and occupation and education data by LGAs in Melbourne. 
+1. This is just a csv table in a SQL database showing the LGA, Suburb, Occupation data and median price 
